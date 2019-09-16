@@ -1,6 +1,5 @@
 # 坦然智慧网前端技术博客 - Wordpress主题
-一款基于Js+jquery2.1.4+H5/CSS3开发，遵循黄金分割定律，把控每个元素每一个像素差的wordpress主题v2.5，[主题介绍](https://www.weipxiu.com/?cat=10)
-
+一款基于Js+jquery2.1.4+H5/CSS3开发，遵循黄金分割定律，把控每个元素每一个像素差的wordpress主题v2.5，[主题介绍](https://www.llg.design/category/module/)
 ### 主题后台配置预览
 ![WP-ä¸»é¢options.png](https://github.com/zllg/tanran/blob/master/zhihui_Blog/images/wp-theme-options.png?raw=true) 
 
