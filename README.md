@@ -87,18 +87,5 @@
 │          
 └─music  /导航音频文件
 ```
-<!-- <h2>使用当前主题网站</h2>
 
->不完全统计
->
->智慧博客网<https://www.llg.design/> 
-
-> 爱前端  www.huanggr.cn
-> 码云笔记  https://www.mybj123.com/
-> 小丸子 http://www.minwenyu.com/
-> 非常前端 http://moxiaofei.com/
->
-> 大佬博客https://zhang.ge/
->
-> 本主题参考<唯品秀主题修改>如有侵权联系删除！和其他网站如有雷同，你懂得！
-
+智慧博客网https://www.llg.design/ 
